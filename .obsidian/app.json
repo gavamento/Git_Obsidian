@@ -1,0 +1,16 @@
+{
+  "baseFontSize": 16,
+  "showLineNumber": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showFrontmatter": true,
+  "showIndentGuide": true,
+  "alwaysUpdateLinks": true,
+  "defaultViewMode": "source",
+  "promptDelete": true,
+  "attachmentFolderPath": "attachments",
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "notes"
+}

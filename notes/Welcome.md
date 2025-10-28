@@ -28,7 +28,3 @@
 
 - [Obsidian公式サイト](https://obsidian.md/)
 - [Obsidianヘルプ](https://help.obsidian.md/)
-
----
-
-*最終更新日: 2025-10-28*
